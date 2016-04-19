@@ -1,0 +1,23 @@
+{
+  "name": "node-phone",
+  "version": "1.0.5",
+  "homepage": "https://github.com/teambition/node-phone",
+  "authors": [
+    "Sune Bear <hi@sunebear.com>"
+  ],
+  "description": "With a given country and phone number, validate and format the phone number to E.164 standard",
+  "main": "lib/index.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
